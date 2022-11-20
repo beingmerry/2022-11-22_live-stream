@@ -6,5 +6,5 @@
 # Steps...I think...
 1. Open this link: https://github.com/beingmerry/2022-11-22_live-stream
 2. Click the edit button
-//paste an image here with the button indicated
+![Click the edit button](https://github.com/beingmerry/2022-11-22_live-stream/blob/main/Screenshot%202022-11-19%20232617.png)
 3. show how to add a comment (without deleting any others!)

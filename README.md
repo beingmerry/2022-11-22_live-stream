@@ -3,7 +3,7 @@
 # Comments ?
 1. I'm not really sure how comments work on GitHub...can anyone edit this?  Fell free to edit! - Ben Merryman @2022-11-19-23:30
 
-2. 🚩 Next comment should go here!!! (you! yes YOU!)
+2. 🚩🦄 This is my comment! I'm new to Github. Glad you provided the readme. - Jamie P @2022-11-20 17:50
 
 3. 🚩 Next comment after that should go here!!! (the next one from Meetup...make a new emoji! Or a suggestion!
 
